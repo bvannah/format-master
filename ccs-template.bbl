@@ -1,0 +1,138 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Cott}{Cott}{2018}]%
+        {doc}
+\bibfield{author}{\bibinfo{person}{James Cott}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{U.S. v. Metsos, Murphy, Heathfield, Foley, Zottoli,
+  Mills, Lazaro, and Pelaez}. In \bibinfo{booktitle}{{\em Sealed Complaint}}.
+  \bibinfo{publisher}{United States Department of Justice},
+  \bibinfo{address}{Southern District of New York, ss.},
+  \bibinfo{pages}{9--11}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{et~al.}{et~al.}{2005}]%
+        {EFF}
+\bibfield{author}{\bibinfo{person}{Robert~Lee et al.}}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{Machine Identification Code von Druckern}. In
+  \bibinfo{booktitle}{{\em eff.org}}. \bibinfo{publisher}{Electronic Frontier
+  Foundation}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Lubacz, Mazurczyk, and Szczypiorski}{Lubacz
+  et~al\mbox{.}}{2014}]%
+        {net}
+\bibfield{author}{\bibinfo{person}{Jozef Lubacz}, \bibinfo{person}{Wojciech
+  Mazurczyk}, {and} \bibinfo{person}{Kryzysztof Szczypiorski}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Principles and Overview of Network Steganography}.
+  In \bibinfo{booktitle}{{\em Institute of Telecommunications, Warsaw
+  University of Technology}}. \bibinfo{publisher}{arXiv},
+  \bibinfo{address}{Warsaw, Poland}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Provos and Honeyman}{Provos and
+  Honeyman}{2001}]%
+        {provos}
+\bibfield{author}{\bibinfo{person}{Niels Provos} {and} \bibinfo{person}{Peter
+  Honeyman}.} \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{Detecting Steganographic Content on the Internet}.
+  In \bibinfo{booktitle}{{\em CITI Technical Report 01-11}}.
+  \bibinfo{publisher}{Center for Technology Integration},
+  \bibinfo{address}{University of Michigan}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rayner and Bloxham}{Rayner and
+  Bloxham}{2010}]%
+        {dt}
+\bibfield{author}{\bibinfo{person}{Gordon Rayner} {and} \bibinfo{person}{Andy
+  Bloxham}.} \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{'Russia spy' Anna Chapman's husband: I thought I
+  knew her}. In \bibinfo{booktitle}{{\em telegraph.co.uk}}.
+  \bibinfo{publisher}{Telegraph Media Group Limited}, \bibinfo{address}{UK}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sieberg}{Sieberg}{2001}]%
+        {cnn}
+\bibfield{author}{\bibinfo{person}{Daniel Sieberg}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{Bin Laden exploits technology to suit his needs}.
+  In \bibinfo{booktitle}{{\em CNN.com}}. \bibinfo{publisher}{Cable News
+  Network}, \bibinfo{address}{New York}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Strufe}{Strufe}{2018}]%
+        {deda}
+\bibfield{author}{\bibinfo{person}{Thorsten Strufe}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Yellow dots identify printers: Computer scientists
+  of TU Dresden develop a tool for printer anonymisation}. In
+  \bibinfo{booktitle}{{\em tu-desden.de}}. \bibinfo{publisher}{Technische
+  Universitat Dresden}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tuohey}{Tuohey}{2004}]%
+        {pcworld}
+\bibfield{author}{\bibinfo{person}{Jason Tuohey}.}
+  \bibinfo{year}{2004}\natexlab{}.
+\newblock \showarticletitle{Government Uses Color Laser Printer Technology to
+  Track Documents}. In \bibinfo{booktitle}{{\em PCWorld}}.
+  \bibinfo{publisher}{IDG Communications}, \bibinfo{address}{Washington}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{user Ianusius}{user Ianusius}{2011}]%
+        {wikiuser}
+\bibfield{author}{\bibinfo{person}{Wikipedia user Ianusius}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Yellow Dots produced by an HP Color LaserJet
+  CP1515n}. \bibinfo{publisher}{Wikimedia}.
+\newblock
+
+
+\end{thebibliography}
